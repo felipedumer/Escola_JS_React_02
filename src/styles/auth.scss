@@ -1,0 +1,12 @@
+@import 'custom_colors';
+
+.auth{
+  background-color: $custom-purple;
+  //height: calc(100vh);
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

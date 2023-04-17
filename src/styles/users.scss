@@ -1,0 +1,14 @@
+@import "./custom_colors";
+
+.users{
+  padding-top: 40px !important;
+  background-color: white;
+  .card-content{
+    padding: 40px;
+  }
+  .users-edit{
+    .title{
+      margin-bottom: 15px;
+    }
+  }
+}
